@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinhaAditya05
+- 👋 Hi, I’m Aditya sinha
 - 👀 I’m interested in Designing 
 - 🌱 I’m currently learning Web development and ui design
 - 💞️ I’m looking to collaborate on UI/UX Design and Web design
